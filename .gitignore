@@ -4,3 +4,4 @@ node_modules
 .DS_Store
 dive_shops_data.json
 dive_shops_data.xlsx
+checkpoint.txt
